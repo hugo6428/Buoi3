@@ -1,4 +1,4 @@
-![Result_Sum_Recursive](https://github.com/user-attachments/assets/d43a8b2f-9521-4d67-a158-4e2c4fae87b1)Video demo ở link: https://drive.google.com/drive/folders/1oXpzdSmh0es7csNLGWpCx68NqbWtdv_s?usp=sharing
+Video Debug ở link: https://drive.google.com/drive/folders/1oXpzdSmh0es7csNLGWpCx68NqbWtdv_s?usp=drive_link
 
 Debug + Result Tổng các số từ 1 tới n
 - Phương pháp đệ quy:
