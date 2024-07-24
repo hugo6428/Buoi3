@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nhat\\HKH\u00E8\\PTTKTT\\Buoi3\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D1EA0A-2C2C-4F6A-8746-C2466F51790D}|QuickSort\\QuickSort.csproj|d:\\nhat\\hkh\u00E8\\pttktt\\buoi3\\quicksort\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D1EA0A-2C2C-4F6A-8746-C2466F51790D}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\PTTKTT\\Buoi3\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\PTTKTT\\Buoi3\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeToolTip": "QuickSort\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:27:04.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

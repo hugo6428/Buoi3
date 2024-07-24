@@ -1,0 +1,14 @@
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\bin\Debug\net8.0\SumArray.exe
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\bin\Debug\net8.0\SumArray.deps.json
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\bin\Debug\net8.0\SumArray.runtimeconfig.json
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\bin\Debug\net8.0\SumArray.dll
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\bin\Debug\net8.0\SumArray.pdb
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.AssemblyInfoInputs.cache
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.AssemblyInfo.cs
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.dll
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\refint\SumArray.dll
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.pdb
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\SumArray.genruntimeconfig.cache
+D:\nhat\HKHè\PTTKTT\Buoi3\SumArray\SumArray\obj\Debug\net8.0\ref\SumArray.dll
